@@ -5,7 +5,7 @@ Mínimo 3 búsquedas. Una sección por búsqueda.
 ## Búsqueda 1
 - **Pregunta que hice:**
 - **Dato obtenido:**
-- **Fuente (enlace):**
+- **Fuente (enlace):** [[fuentes]]
 - **Fecha de la fuente:**
 
 ## Búsqueda 2
